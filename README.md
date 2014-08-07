@@ -1,3 +1,6 @@
+Autor: Eduardo Runge O.
+
+
 prueba
 ======
 
